@@ -11,4 +11,5 @@ The chessprogram is implemented in four files. First there are two files for the
 - [Franka_ros](https://github.com/frankaemika/franka_ros.git)
 - [Panda_moveit_config](https://github.com/ros-planning/panda_moveit_config.git)
 - [SR Research Eylink Developers Kit](https://www.sr-support.com/showthread.php?tid=13)
-- [Pylink](https://www.sr-support.com/thread-48.html)
+- [Pylink](https://www.sr-support.com/thread-48.html) via propiatary install file
+- [Pygame](https://www.pygame.org/wiki/GettingStarted) via binary package
